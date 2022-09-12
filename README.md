@@ -2,9 +2,8 @@
 
 El sistema de recomendación de vídeo bajo demanda brinda contenidos audiovisuales, capturando la satisfacción del usuario a través de sus expresiones faciales, posteriormente el sistema las evalúa y sugiere un vídeo acorde a sus preferencias.
 
-El sistema consta de de los siguientes módulos:
-
-+Reconocimiento de emociones: Calificacion del video segun los gestos de la cara.
+-El sistema consta de de los siguientes módulos:
+--Reconocimiento de emociones: Calificacion del video segun los gestos de la cara.
 +Recomendacion de video.
 +Interfaz Pagina Web (JavaScript, Css, PHP y HTML): Reúne los módulos anteriores, para permitir la interacción del sistema con el usuario.
 +Núcleo IMS (OpenIMS): Para el despliegue del sistema como un servicio web (No se encuentra en este repositorio).
